@@ -96,7 +96,7 @@ This repository currently provides:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iLearn-Lab/MEET.git
+git clone https://github.com/iLearn-Lab/TCSVT25-MEET.git
 cd MEET
 ```
 
@@ -118,7 +118,7 @@ tensorboard
 
 ## Checkpoints
 
-The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1_ycDD1sBZwYa97m8SyKEnV4PdhRLas89?usp=sharing).
+The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1_ycDD1sBZwYa97m8SyKEnV4PdhRLas89?usp=sharing) & [Hugging Face](https://huggingface.co/iLearn-Lab/TCSVT25-MEET).
 
 
 ---
